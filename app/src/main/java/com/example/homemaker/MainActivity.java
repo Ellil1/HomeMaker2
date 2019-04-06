@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
      */
     private SectionsPagerAdapter mSectionsPagerAdapter;
 
-    /** Love youuu!
+    /**    You are a wonderful fiance!
      * The {@link ViewPager} that will host the section contents.
      */
     private ViewPager mViewPager;
